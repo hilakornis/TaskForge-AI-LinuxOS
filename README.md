@@ -25,8 +25,5 @@ pip install -r requirements.txt
 ```
 
 ## Usage [todo]
-```
-from taskforge import SystemMonitor monitor = SystemMonitor()
-monitor.start_tracking()
-``
+
 
