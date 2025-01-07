@@ -27,3 +27,4 @@ pip install -r requirements.txt
 ## Usage [todo]
 
 
+![TaskForge AI Logo](images/custom image.webp)
