@@ -27,4 +27,4 @@ pip install -r requirements.txt
 ## Usage [todo]
 
 
-![TaskForge AI Logo]([images/custom image.webp](https://github.com/hilakornis/TaskForge-AI-LinuxOS/blob/fd7222845af437dc0df8cff30dac3b04746471df/Images/Readme_photo.jpg)
+![TaskForge AI Logo]([images/custom image.webp](https://github.com/hilakornis/TaskForge-AI-LinuxOS/blob/fd7222845af437dc0df8cff30dac3b04746471df/Images/Readme_photo.jpg?raw=true)
