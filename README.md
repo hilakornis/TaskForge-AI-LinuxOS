@@ -19,9 +19,9 @@ Advanced AI-powered Linux Task Manager with Intelligent Anomaly Detection
 
 ### Quick Install
 ```
-git clone https://github.com/yourusername/taskforge-ai
-cd taskforge-ai
-pip install -r requirements.txt
+git clone https://github.com/hilakornis/TaskForge-AI-LinuxOS.git
+cd TaskForge-AI-LinuxOS/
+# pip install -r requirements.txt
 ```
 
 ## Usage [todo]
