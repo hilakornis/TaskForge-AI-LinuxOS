@@ -7,3 +7,7 @@ hello.mod.c
 hello.mod.o
 hello.o
 modules.order
+*.ko
+*.mod*
+*.o
+*.cmd
