@@ -11,3 +11,4 @@ modules.order
 *.mod*
 *.o
 *.cmd
+hello.c
